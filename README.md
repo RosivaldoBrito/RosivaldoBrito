@@ -17,11 +17,11 @@ Atualmente, dedico meus estudos diários ao ecossistema **Backend**, construindo
 - **Versionamento:** Git e GitHub
 
 ### 📈 Meus Melhores Projetos
-- 🏦 [Sistema de Gestão Bancária](github.com/RosivaldoBrito/sistema-bancario-java.git): Aplicação prática de Encapsulamento e regras de negócio.
-- 📦 [Controle de Estoque e Dados](github.com/RosivaldoBrito/controle-estoque-java.git): Gerenciamento de estado de objetos, vetores e lógica em POO.
+- 🏦 [Sistema de Gestão Bancária](https://github.com/RosivaldoBrito/sistema-bancario-java.git): Aplicação prática de Encapsulamento e regras de negócio.
+- 📦 [Controle de Estoque e Dados](https://github.com/RosivaldoBrito/controle-estoque-java.git): Gerenciamento de estado de objetos, vetores e lógica em POO.
 
 ### 🤝 Como me encontrar
-- **LinkedIn:** [Acesse meu perfil aqui](linkedin.com/in/rosivaldobrito)
+- **LinkedIn:** [Acesse meu perfil aqui](www.linkedin.com/in/rosivaldobrito)
 - **E-mail:** rosivaldo.br.dev@gmail.com
 
 ---
