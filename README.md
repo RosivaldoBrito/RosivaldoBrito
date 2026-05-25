@@ -21,7 +21,7 @@ Atualmente, dedico meus estudos diários ao ecossistema **Backend**, construindo
 - 📦 [Controle de Estoque e Dados](https://github.com/RosivaldoBrito/controle-estoque-java.git): Gerenciamento de estado de objetos, vetores e lógica em POO.
 
 ### 🤝 Como me encontrar
-- **LinkedIn:** [Acesse meu perfil aqui](www.linkedin.com/in/rosivaldobrito)
+- **LinkedIn:** [Acesse meu perfil aqui](https://www.linkedin.com/in/rosivaldobrito/)
 - **E-mail:** rosivaldo.br.dev@gmail.com
 
 ---
