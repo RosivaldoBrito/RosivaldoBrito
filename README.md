@@ -12,7 +12,7 @@ Atualmente, dedico meus estudos diários ao ecossistema **Backend**, construindo
 - **Próximos Passos (No radar):** Bancos de Dados Relacionais (SQL) e Spring Boot.
 
 ### 🛠️ Ferramentas e Tecnologias
-- **Linguagens:** Java, Python (Básico)
+- **Linguagens:** Java
 - **IDEs:** Eclipse, VS Code
 - **Versionamento:** Git e GitHub
 
