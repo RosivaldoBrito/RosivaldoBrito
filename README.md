@@ -17,7 +17,7 @@ Atualmente, dedico meus estudos diários ao ecossistema **Backend**, construindo
 - **Versionamento:** Git e GitHub
 
 ### 📈 Meus Melhores Projetos
-- 🏦 [Sistema de Gestão Bancária](https://github.com/RosivaldoBrito/sistema-bancario-java.git): Aplicação prática de Encapsulamento e regras de negócio.
+- 🛒 [Modelagem de E-commerce (POO)](https://github.com/RosivaldoBrito/estudos-java-poo/tree/main/src/orientacao_objetos/pedido_ecommerce): Exercício avançado de Composição, Enums e Java Time API.
 - 📦 [Controle de Estoque e Dados](https://github.com/RosivaldoBrito/controle-estoque-java.git): Gerenciamento de estado de objetos, vetores e lógica em POO.
 
 ### 🤝 Como me encontrar
