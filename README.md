@@ -23,7 +23,7 @@ Atualmente, dedico meus estudos diários ao ecossistema **Backend**. Recentement
 - 🛡️ **[Validação Bancária com Exceções](https://github.com/RosivaldoBrito/estudos-java-poo/tree/e884a9255ad81f6372611089ae9267aa9f5b1c41/src/tratamento_excecoes/conta_bancaria):** Implementação de Programação Defensiva (`try/catch`) e criação de Exceções Personalizadas (`DomainException`).
 
 ### 🤝 Como me encontrar
-- **LinkedIn:** [Acesse meu perfil aqui](www.linkedin.com/in/rosivaldobrito)
+- **LinkedIn:** [Acesse meu perfil aqui](https://www.linkedin.com/in/rosivaldobrito/?skipRedirect=true)
 - **E-mail:** rosivaldo.br.dev@gmail.com
 
 ---
